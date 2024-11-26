@@ -1,6 +1,6 @@
 // simple JS exportable function to display a str argument
-function displayMessage (str) {
+function displayMessage(str) {
   console.log(str);
-};
+}
 
 module.exports = displayMessage;
